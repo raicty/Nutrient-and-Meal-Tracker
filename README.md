@@ -27,6 +27,14 @@ This project implements a robust relational database system for managing and ana
 
 ---
 
+## 🖼️ Entity-Relationship Diagram
+
+Below is the ER diagram representing the database schema:
+
+![ER Diagram](er diagram.png)
+
+---
+
 ## 💡 Key Features
 
 - **Relational Integrity:** Extensive use of foreign keys to maintain data consistency.
