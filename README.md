@@ -31,7 +31,7 @@ This project implements a robust relational database system for managing and ana
 
 Below is the ER diagram representing the database schema:
 
-![ER Diagram](er diagram.png)
+![ER Diagram](/er%20diagram.png)
 
 ---
 
